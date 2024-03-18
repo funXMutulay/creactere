@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/creactere/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/creactere/static/js/main.c672094f.chunk.js",
+    "main.js.map": "/creactere/static/js/main.c672094f.chunk.js.map",
+    "runtime~main.js": "/creactere/static/js/runtime~main.1b3a5d6e.js",
+    "runtime~main.js.map": "/creactere/static/js/runtime~main.1b3a5d6e.js.map",
+    "static/js/2.a71b1702.chunk.js": "/creactere/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/creactere/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/creactere/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/creactere/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/creactere/index.html",
+    "precache-manifest.b43ee83068e914cf21ce10850418e58c.js": "/creactere/precache-manifest.b43ee83068e914cf21ce10850418e58c.js",
+    "service-worker.js": "/creactere/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/creactere/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/creactere/static/media/logo.06e73328.svg"
+  }
+}
